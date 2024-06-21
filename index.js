@@ -7,7 +7,7 @@ Só solicitar o  console que imprima o resultado, sem precisar utilizar parametr
 */
 
 
-let resultado = calcular(numeroAleatorio(1, 120), 10)
+let resultado = calcular(numeroAleatorio(0, 150), 10)
 let rank = classificacao()
 
 function main() {
