@@ -1,4 +1,5 @@
-/* Desafio do Felipão. utilizando a logica de programação. Junto com um insetivo do felipão. 
+/*
+Desafio do Felipão. utilizando a logica de programação. Junto com um insetivo do felipão. 
 Que foi para não ter medo de explorar coisas novas. Utilizei o conhecimento adquirido nas aulas. com um pouco de curiosidade e criatividade propria. 
 Fiz o exercicio solicitado usando funções para realizar um calculadorr de partida ranqueada. junto a esse metodo solicitado pelo desafio. 
 Optei por ciar uma função randomica de geração de numeros. Para simular um jogador ganhando seus propior pontos, e integrando essa função com o restante do codigo. 
